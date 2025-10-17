@@ -1,4 +1,5 @@
-# AWS Cloud Practitioner Essentials - Module 1 Notes
+# AWS Cloud Practitioner Essentials -
+## Module 1: Introduction to Cloud | AWS - Notes
 
 <!-- ## 📅 Date: 15/10/2025 -->
 

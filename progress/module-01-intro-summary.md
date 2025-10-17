@@ -15,8 +15,8 @@
 - Security responsibilities (AWS = physical, Customer = data/OS)
 - Global infrastructure (Regions vs Availability Zones)
 
-## 🚀 Action Items for Tomorrow
-
+<!-- ## 🚀 Action Items for Tomorrow -->
+<!-- 
 ### Knowledge Application
 1. **AWS Free Tier Setup** - Create account and explore console
 2. **Module 2** - Cloud Economics and Billing
@@ -33,4 +33,4 @@ The coffee shop analogy made client-server model very clear. Understanding that 
 ## 📚 Resources to Explore Further
 - AWS Skill Builder additional labs
 - AWS Well-Architected Framework overview
-- AWS Free Tier service limits
+- AWS Free Tier service limits -->

@@ -1,9 +1,9 @@
 # Module 2: Compute in the Cloud - Summary
 
 ## 📅 Day 2 Progress
-**Date**: [Today's Date]  
+<!-- **Date**: 16/102025   -->
 **Status**: Completed  
-**Next Module**: Module 3 - Exploring Compute Services
+<!-- **Next Module**: Module 3 - Exploring Compute Services -->
 
 ## 🎯 Key Concepts Covered
 
