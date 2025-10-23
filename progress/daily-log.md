@@ -1,6 +1,7 @@
 # Daily Learning Log
 
-## 📅 Day 1 - [Date]
+## 📅 Day 1 
+
 **Focus**: Module 1 - Introduction to the Cloud
 
 ### ✅ Completed
@@ -20,7 +21,8 @@ Start Module 2 - Compute in the Cloud (EC2, Auto Scaling, Load Balancing)
 
 ---
 
-## 📅 Day 2 - [Today's Date]
+## 📅 Day 2 
+
 **Focus**: Module 2 - Compute in the Cloud - **COMPLETED** ✅
 
 ### ✅ Completed Today
@@ -70,7 +72,8 @@ Module 3 - Exploring Compute Services (Lambda, Containers, Serverless)
 
 ---
 
-## 📅 Day 3 - [Tomorrow's Date]
+## 📅 Day 3 
+
 **Focus**: Module 3 - Exploring Compute Services
 
 ### 🔄 Planned

@@ -2,7 +2,7 @@
 
 ## 📅 Day 2 Progress
 <!-- **Date**: 16/102025   -->
-**Status**: Completed  
+<!-- **Status**: Completed   -->
 <!-- **Next Module**: Module 3 - Exploring Compute Services -->
 
 ## 🎯 Key Concepts Covered
