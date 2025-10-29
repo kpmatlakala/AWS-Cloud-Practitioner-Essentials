@@ -1,7 +1,5 @@
 # Daily Learning Log
 
-## 📅 Day 1 
-
 **Focus**: Module 1 - Introduction to the Cloud
 
 ### ✅ Completed
@@ -20,8 +18,6 @@
 Start Module 2 - Compute in the Cloud (EC2, Auto Scaling, Load Balancing)
 
 ---
-
-## 📅 Day 2 
 
 **Focus**: Module 2 - Compute in the Cloud - **COMPLETED** ✅
 
@@ -49,35 +45,158 @@ Start Module 2 - Compute in the Cloud (EC2, Auto Scaling, Load Balancing)
 - SNS for publish-subscribe notifications
 - EventBridge for event-driven systems
 
-### 💡 Technical Insights
-- **EC2 Launch**: AMI → Instance Type → Networking → Storage
-- **Cost Optimization**: Right-sizing instances + appropriate pricing model
-- **High Availability**: Multi-AZ deployment + Auto Scaling + ELB
-- **Fault Tolerance**: Loosely coupled architecture with messaging queues
-
-### 🚀 Practical Applications Understood
-- Web applications with auto-scaling frontend
-- Data processing with cost-effective spot instances
-- Microservices communication via SQS/SNS
-- Healthcare systems with load-balanced patient portals
-
 ### 🎯 Tomorrow's Plan
 Module 3 - Exploring Compute Services (Lambda, Containers, Serverless)
 
-### 📝 Notes for Future Reference
-- EC2 is foundational for most AWS workloads
-- Auto Scaling + ELB = basic high availability pattern
-- Messaging services enable modern microservices architecture
-- Cost optimization requires understanding all pricing models
+---
+
+**Focus**: Module 3 - Exploring Compute Services - **COMPLETED** ✅
+
+### ✅ Completed Today
+- [x] Module 3 all lessons and videos
+- [x] Assessment: 8/8 (100%) - Perfect score
+- [x] Mastered serverless computing with AWS Lambda
+- [x] Understood container services (ECS, EKS, ECR, Fargate)
+- [x] Learned additional compute services (Elastic Beanstalk, Batch, Lightsail, Outposts)
+- [x] Created comprehensive documentation
+
+### 🎯 Key Concepts Mastered
+**Serverless Computing**
+- AWS Lambda components: functions, triggers, runtimes
+- Event-driven architecture patterns
+- Automatic scaling and pay-per-millisecond pricing
+- 15-minute execution time limit
+
+**Container Ecosystem**
+- Containers vs Virtual Machines differences
+- Amazon ECR for container image storage
+- Amazon ECS vs EKS orchestration choices
+- Fargate serverless vs EC2 managed compute
+
+**Additional Services**
+- Elastic Beanstalk for PaaS application deployment
+- AWS Batch for large-scale computing tasks
+- Lightsail for simplified VPS hosting
+- Outposts for hybrid cloud solutions
+
+### 🎯 Tomorrow's Plan
+Module 4 - Going Global (Global Infrastructure, CDN, Edge Locations)
 
 ---
 
-## 📅 Day 3 
+## 📅 Day 4 - [Date]
+**Focus**: Module 4 - Going Global - **COMPLETED** ✅
 
-**Focus**: Module 3 - Exploring Compute Services
+### ✅ Completed Today
+- [x] Module 4 all lessons and videos
+- [x] Mastered AWS Global Infrastructure components
+- [x] Understood Region selection strategy (4 key factors)
+- [x] Learned high availability architectures (multi-AZ, multi-Region)
+- [x] Explored edge locations and CloudFront CDN
+- [x] Understood Infrastructure as Code with CloudFormation
+- [x] Created comprehensive documentation
+
+### 🎯 Key Concepts Mastered
+**Global Infrastructure Hierarchy**
+- **Regions**: Geographical areas with multiple data centers
+- **Availability Zones**: Isolated locations within Regions
+- **Edge Locations**: Global content delivery points
+
+**Region Selection Framework**
+1. **Compliance**: Data sovereignty and legal requirements
+2. **Proximity**: Minimize latency for users
+3. **Feature Availability**: Service availability per Region
+4. **Pricing**: Cost variations across Regions
+
+**High Availability Patterns**
+- Multi-AZ deployment for fault tolerance
+- Multi-Region deployment for disaster recovery
+- Edge locations for content delivery optimization
+
+**Automation & IaC**
+- AWS CloudFormation for infrastructure as code
+- Consistent, repeatable deployments
+- Programmatic vs Console access strategies
+
+### 🎯 Tomorrow's Plan
+Module 5 - Networking (VPC, Subnets, Security Groups)
+
+---
+
+**Focus**: Module 5 - Networking - **COMPLETED** ✅
+
+### ✅ Completed Today
+- [x] Module 5 all lessons and videos
+- [x] Assessment: 14/14 (100%) - Perfect score
+- [x] Mastered VPC fundamentals and subnet organization
+- [x] Understood security components (Security Groups vs NACLs)
+- [x] Learned connectivity options (VPN, Direct Connect, Gateways)
+- [x] Explored global networking services (Route 53, CloudFront, Global Accelerator)
+- [x] Created comprehensive documentation
+
+### 🎯 Key Concepts Mastered
+**VPC & Subnet Architecture**
+- Virtual Private Cloud as logical isolation boundary
+- Public vs Private subnets for resource organization
+- Internet Gateway for public internet access
+- Virtual Private Gateway for secure private connections
+
+**Security Framework**
+- **Security Groups**: Stateful, instance-level firewall
+- **Network ACLs**: Stateless, subnet-level firewall
+- Defense in depth strategy using both components
+- Customer responsibility for network security
+
+**Connectivity Options**
+- **Site-to-Site VPN**: Secure office-to-cloud connections
+- **Client VPN**: Remote user access
+- **Direct Connect**: Dedicated private connections
+- **PrivateLink**: Secure service connectivity
+
+**Global Networking**
+- **Route 53**: DNS management and intelligent routing
+- **CloudFront**: Content Delivery Network (CDN)
+- **Global Accelerator**: Performance and availability optimization
+
+### 💡 Technical Insights
+- **Coffee Shop Analogy**: Clear understanding of VPC components
+- **Stateful vs Stateless**: Critical difference between Security Groups and NACLs
+- **Hybrid Patterns**: Direct Connect + VPN for redundancy
+- **Global Architecture**: Multi-Region with intelligent DNS routing
+
+### 🚀 Practical Applications Understood
+- **E-commerce Apps**: Multi-tier architecture with proper security
+- **Healthcare Systems**: Direct Connect for compliance and bandwidth
+- **Global Media**: CloudFront + Route 53 for content delivery
+- **Enterprise VPN**: Client VPN for remote workforce
+
+### 🎯 Tomorrow's Plan
+Module 6 - Storage (S3, EBS, EFS, Storage Gateway)
+
+### 📝 Progress Notes
+- **Confidence Level**: Very High - networking concepts well understood
+- **Pattern Recognition**: Clear security and connectivity patterns emerging
+- **Ready For**: Storage services and data management
+- **Key Insight**: AWS provides complete networking toolbox for any scenario
+
+---
+
+**Focus**: Module 6 - Storage
 
 ### 🔄 Planned
-- [ ] AWS Lambda and serverless concepts
-- [ ] Container services (ECS, EKS)
-- [ ] Additional compute options
-- [ ] Hands-on lab preparation
+- [ ] Amazon S3 object storage
+- [ ] EBS block storage
+- [ ] EFS file storage
+- [ ] Storage Gateway
+- [ ] Create storage documentation
+
+### 🎯 Learning Objectives
+- Understand different AWS storage services
+- Learn use cases for each storage type
+- Master storage security and access controls
+- Explore data lifecycle management
+
+### 📚 Resources to Reference
+- AWS Storage Services overview
+- S3 documentation and best practices
+- Storage security guidelines
